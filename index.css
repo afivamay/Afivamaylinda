@@ -1,0 +1,22 @@
+  *{
+	background: rgb(250, 208, 208);
+}
+
+.menu li{
+	background-color: rgb(250, 208, 208);
+	text-align: center;
+}
+
+h2{
+	background-color: rgb(214, 121, 121);
+}
+ 
+.menu ul li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+}
+
+.footer{
+	background-color: rgb(214, 121, 121);
+}
